@@ -1,16 +1,4 @@
-/**
- * interface for the todo list
- * 
- * 1. id:number
- * 2. title:string 
- * 3. description:string
- * 4. completed:boolean
- * 5. createdAt:Date
- * 6. updatedAt:Date
- * 
- * 
- * 
- */
+
 
 import { TextFieldProps } from "@mui/material";
 
